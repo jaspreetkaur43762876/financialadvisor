@@ -1,29 +1,44 @@
-A guideline to build a no-cost LLM chatbot This README provides a structured and detailed guide to help users through the process of creating and deploying a customized LLM chatbot using Hugging Face Spaces and Gradio, highlighting key steps and customization options, complete with useful links for easy navigation.
+Build and deploy a custom LLM app in 5 minutes for free
 
-Build and Deploy Your Custom LLM App in 5 Minutes for Free Introduction Have you ever wished to craft a chatbot tailored to your needs? Whether it's a guide to mental health or an advisor on practices for maintaining a mental health, this comprehensive guide is your gateway. We'll walk you through the simple steps to build and deploy your own LLM-based chatbot using Hugging Face Spaces and Gradio—all in just five minutes, and absolutely free of charge!
+Introduction
+Ever wanted to create a custom chat for your needs? Whether it's a guide to financial advice or advice on best practices for maintaining financial health, this comprehensive guide is your gateway. We'll walk you through easy steps to create and deploy your own LLM-based chat using Hugging Face Spaces and Gradio - all in just five minutes and completely free!
 
-Prerequisites Before you start creating your chatbot, make sure you have the following:
+Prerequisites
+Before you start building your chat, make sure you have the following:
 
-A Hugging Face Account: Essential for accessing the platform where you'll build and host your chatbot. Sign up here. Setup and Deployment Choosing Your Chatbot’s Identity: Decide what your chatbot will specialize in. For this example, we'll focus on a chatbot that offers advice on mental health support advisor. The role you choose will define the interactions and capabilities of your chatbot.
+- Hugging Face account: required to access the platform where you will build and host your chat. [Sign up here](https://huggingface.co/join).
 
-Logging into Hugging Face: You'll need an account to access the tools required for deploying your chatbot. If you don't have an account, signing up is straightforward and quick.
+Installation and Development
+Choosing a Chatbot Identity
+Decide what your chatbot will specialize in. In this example, we will focus on a chatbot that offers financial health care advice. The role you choose determines the interactions and capabilities of your chat.
 
-Navigating to Hugging Face Spaces: Spaces are where the magic happens. This section of Hugging Face allows users to create and manage their applications seamlessly. Navigate to Spaces to get started.
+Log in to Hugging Face
+You need an account to use the chat setup tools. If you don't have an account, registration is quick and easy.
 
-Creating Your Space: Initiate a new space by clicking on 'Create New Space'. It’s important that the name of your Space reflects the chatbot's role, as it helps in identifying the application’s purpose at a glance.
+Navigating Hug Face Spaces
+Spaces are where the magic happens. This Hugable Face section allows users to seamlessly create and manage their apps. Go to [Spaces](https://huggingface.co/spaces) to get started.
 
-Configuring Your Chatbot:
+Create your mode
+Click Create new mode to start a new mode. It is important that the name of your room reflects the role of the chat, as it helps to identify the purpose of the application immediately.
 
-Selecting the Framework and Model: Choose 'Gradio' as the framework for its user-friendly interface capabilities, and select a suitable model, such as 'Zephyr 7B', known for its versatility across various tasks.
+Chat Setup
+Choose Frame and Template
+Choose "Gradient" as your frame for user interface features and choose a suitable template like "Zephyr 7B" which is known for its versatility on multiple devices. missions
 
-Customization: Here’s where you personalize the chatbot. Depending on the selected role, you might want to tailor system messages and interaction style. This customization will enable your chatbot to interact appropriately according to its role.
+Personalization
+Here you can customize the chat. Depending on the role you choose, you may want to customize the system messages and communication style. This customization allows your chat to work exactly according to its role.
 
-Deployment: Once setup is complete, deploy your chatbot by simply clicking the create button. Deployment usually takes a couple of minutes. After this, your chatbot will be up and running and ready to interact.
+Deployment
+Once the installation is complete, click the Create button to deploy the chat. Installation usually takes a few minutes. After that, your chat is up and ready to interact.
 
-Customization Example To make your chatbot truly unique, consider personalizing it extensively. For instance, if you choose a 'mental health support advisor' role:
+Personalization Example
+If you want to make your chat truly unique, consider extensive customization. For example, if you choose the "Financial Health Advisor" role:
 
-Modify the system messages to include tips on optimizing mental health, maintenance schedules for mental health, and advice on mental health practices. Program the chatbot to suggest improving mental health techniques, recommend practice to improve mental health, and provide information on the benefits of good mental health. Explore different roles and tweak the system instructions to discover the full potential of your chatbot. Don’t forget to share your creations and experiences, as your insights could inspire others in their chatbot development.
+- Modify system messages to include advice to optimize your financial situation, financial care schedules and advice on financial practices.
+- Schedule a chat to recommend better financial techniques, recommend practices to improve financial health, and provide information on the benefits of good financial health.
 
-If you wish to contribute: Please fork this repo.
+Explore the different roles and configure the system instructions to discover the full potential of your chat. Don't forget to share your creations and experiences, because your insights can inspire others to develop their chatbots.
+To participate:
+Enable this repository.
 
-For any questions, reach out to me at sa4375917@alphacollege.me
+If you have any questions, please contact ja4376286@alphacollege.me
